@@ -1,0 +1,6 @@
+# editor
+.idea/
+.vscode/
+
+# build
+out/

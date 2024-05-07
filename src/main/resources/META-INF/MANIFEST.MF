@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Agent-Class: com.boogipop.easyrasp.AgentBoot
-Premain-Class: com.boogipop.easyrasp.AgentBoot
-Can-Redefine-Classes: true
-Can-Retransform-Classes: true
